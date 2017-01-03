@@ -1,4 +1,4 @@
-import AinaTweet from "aina-tweet.js";
+import {AinaTweet} from 'aina-tweet.js';
 
 console.log('the bot is starting');
 
