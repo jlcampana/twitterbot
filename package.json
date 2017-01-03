@@ -2,13 +2,13 @@
   "name": "npm_demo",
   "version": "1.0.0",
   "description": "demo of npm",
-  "main": "bot.js",
+  "main": "src/bot.js",
   "scripts": {
-    "start": "node bot.js enter npm start",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "rainbow"
+    "aina"
   ],
   "author": "ainahc",
   "license": "ISC",
