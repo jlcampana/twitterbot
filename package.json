@@ -5,6 +5,7 @@
   "main": "src/bot.js",
   "scripts": {
     "start": "node .",
+    "fistro": "clear",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
